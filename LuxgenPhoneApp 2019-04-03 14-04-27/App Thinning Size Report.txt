@@ -1,0 +1,78 @@
+
+App Thinning Size Report for All Variants of LuxgenPhoneApp
+
+Variant: LuxgenPhoneApp-0F9963FF-9509-4375-A18A-720BC21663DE.ipa
+Supported variant descriptors: [device: iPhone5,1, os-version: 9], [device: iPhone5,2, os-version: 9], [device: iPhone5,4, os-version: 9], [device: iPhone5,3, os-version: 9], [device: iPod5,1, os-version: 9], and [device: iPhone4,1, os-version: 9]
+App + On Demand Resources size: 4.4 MB compressed, 21.5 MB uncompressed
+App size: 4.4 MB compressed, 21.5 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: LuxgenPhoneApp-19447823-8ABB-4278-9DA4-D73329092CFC.ipa
+Supported variant descriptors: [device: iPhone10,3, os-version: 11], [device: iPhone10,2, os-version: 11], [device: iPhone10,5, os-version: 11], [device: iPhone9,4, os-version: 10], [device: iPhone9,2, os-version: 10], [device: iPhone9,4, os-version: 11], [device: iPhone10,6, os-version: 11], [device: iPhone9,2, os-version: 11], [device: iPhone7,1, os-version: 9], and [device: iPhone8,2, os-version: 9]
+App + On Demand Resources size: 4.2 MB compressed, 21.5 MB uncompressed
+App size: 4.2 MB compressed, 21.5 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: LuxgenPhoneApp-317C151A-614D-4818-B2AB-387CBDBCD627.ipa
+Supported variant descriptors: [device: iPad6,12, os-version: 11], [device: iPad7,2, os-version: 11], [device: iPad4,7, os-version: 9], [device: iPad4,9, os-version: 9], [device: iPad6,12, os-version: 10], [device: iPad6,11, os-version: 11], [device: iPad4,4, os-version: 9], [device: iPad7,2, os-version: 10], [device: iPad7,5, os-version: 11], [device: iPad6,7, os-version: 9], [device: iPad7,3, os-version: 10], [device: iPad4,3, os-version: 9], [device: iPad7,4, os-version: 11], [device: iPad5,4, os-version: 9], [device: iPad6,3, os-version: 9], [device: iPad7,1, os-version: 10], [device: iPad5,3, os-version: 9], [device: iPad4,2, os-version: 9], [device: iPad7,1, os-version: 11], [device: iPad4,8, os-version: 9], [device: iPad4,1, os-version: 9], [device: iPad5,1, os-version: 9], [device: iPad4,6, os-version: 9], [device: iPad5,2, os-version: 9], [device: iPad7,4, os-version: 10], [device: iPad7,6, os-version: 11], [device: iPad6,8, os-version: 9], [device: iPad6,11, os-version: 10], [device: iPad7,3, os-version: 11], [device: iPad6,4, os-version: 9], and [device: iPad4,5, os-version: 9]
+App + On Demand Resources size: 4.2 MB compressed, 21.5 MB uncompressed
+App size: 4.2 MB compressed, 21.5 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: LuxgenPhoneApp-83CCFDFA-A8B5-429F-AEA1-812D5746720D.ipa
+Supported variant descriptors: [device: iPhone11,8, os-version: 12]
+App + On Demand Resources size: 4 MB compressed, 21.5 MB uncompressed
+App size: 4 MB compressed, 21.5 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: LuxgenPhoneApp-966AD3A4-AFBE-4AF5-8DAB-035570EB8AFF.ipa
+Supported variant descriptors: [device: iPad3,2, os-version: 9], [device: iPad3,4, os-version: 9], [device: iPad3,1, os-version: 9], [device: iPad3,3, os-version: 9], [device: iPad3,5, os-version: 9], and [device: iPad3,6, os-version: 9]
+App + On Demand Resources size: 4.4 MB compressed, 21.5 MB uncompressed
+App size: 4.4 MB compressed, 21.5 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: LuxgenPhoneApp-BDBAA856-7BE0-42AF-BC32-4D7E16D9EA9F.ipa
+Supported variant descriptors: [device: iPhone9,4, os-version: 12], [device: iPhone11,2, os-version: 12], [device: iPhone11,4, os-version: 12], [device: iPhone10,2, os-version: 12], [device: iPhone10,3, os-version: 12], [device: iPhone11,6, os-version: 12], [device: iPhone10,5, os-version: 12], [device: iPhone8,2, os-version: 12], [device: iPhone9,2, os-version: 12], and [device: iPhone10,6, os-version: 12]
+App + On Demand Resources size: 4 MB compressed, 21.5 MB uncompressed
+App size: 4 MB compressed, 21.5 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: LuxgenPhoneApp-C0817C2F-7A52-46A5-9CBF-C7166D8120DF.ipa
+Supported variant descriptors: [device: iPad2,6, os-version: 9], [device: iPad2,4, os-version: 9], [device: iPad2,1, os-version: 9], [device: iPad2,3, os-version: 9], [device: iPad2,2, os-version: 9], [device: iPad2,5, os-version: 9], and [device: iPad2,7, os-version: 9]
+App + On Demand Resources size: 4.4 MB compressed, 21.5 MB uncompressed
+App size: 4.4 MB compressed, 21.5 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: LuxgenPhoneApp-DB0ACB7A-280D-4BFA-B303-AD6F4964E841.ipa
+Supported variant descriptors: [device: iPad4,6, os-version: 12], [device: iPad7,1, os-version: 12], [device: iPad4,9, os-version: 12], [device: iPad8,3, os-version: 12], [device: iPad4,1, os-version: 12], [device: iPad5,1, os-version: 12], [device: iPad6,8, os-version: 12], [device: iPad7,3, os-version: 12], [device: iPad7,4, os-version: 12], [device: iPad6,7, os-version: 12], [device: iPad8,2, os-version: 12], [device: iPad4,3, os-version: 12], [device: iPad6,4, os-version: 12], [device: iPad4,4, os-version: 12], [device: iPad7,6, os-version: 12], [device: iPad4,2, os-version: 12], [device: iPad8,6, os-version: 12], [device: iPad8,5, os-version: 12], [device: iPad4,8, os-version: 12], [device: iPad5,2, os-version: 12], [device: iPad6,11, os-version: 12], [device: iPad5,3, os-version: 12], [device: iPad7,5, os-version: 12], [device: iPad7,2, os-version: 12], [device: iPad8,1, os-version: 12], [device: iPad8,8, os-version: 12], [device: iPad4,7, os-version: 12], [device: iPad4,5, os-version: 12], [device: iPad8,4, os-version: 12], [device: iPad8,7, os-version: 12], [device: iPad6,12, os-version: 12], [device: iPad5,4, os-version: 12], and [device: iPad6,3, os-version: 12]
+App + On Demand Resources size: 4 MB compressed, 21.5 MB uncompressed
+App size: 4 MB compressed, 21.5 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: LuxgenPhoneApp-E4A3E2EB-DD06-41A2-8B68-7518A6C1A0F9.ipa
+Supported variant descriptors: [device: iPhone9,3, os-version: 10], [device: iPhone8,1, os-version: 9], [device: iPhone6,2, os-version: 9], [device: iPod7,1, os-version: 9], [device: iPhone7,2, os-version: 9], [device: iPhone9,1, os-version: 10], [device: iPhone6,1, os-version: 9], [device: iPhone9,3, os-version: 11], [device: iPhone10,4, os-version: 11], [device: iPhone8,4, os-version: 9], [device: iPhone9,1, os-version: 11], and [device: iPhone10,1, os-version: 11]
+App + On Demand Resources size: 4.2 MB compressed, 21.5 MB uncompressed
+App size: 4.2 MB compressed, 21.5 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: LuxgenPhoneApp-FA5D90BC-B3C8-4A84-BCB6-408BFD5D700A.ipa
+Supported variant descriptors: [device: iPhone8,4, os-version: 12], [device: iPhone10,4, os-version: 12], [device: iPod7,1, os-version: 12], [device: iPhone9,3, os-version: 12], [device: iPhone10,1, os-version: 12], [device: iPhone6,2, os-version: 12], [device: iPhone9,1, os-version: 12], [device: iPhone8,1, os-version: 12], [device: iPhone7,2, os-version: 12], and [device: iPhone6,1, os-version: 12]
+App + On Demand Resources size: 4 MB compressed, 21.5 MB uncompressed
+App size: 4 MB compressed, 21.5 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: LuxgenPhoneApp.ipa
+Supported variant descriptors: Universal
+App + On Demand Resources size: 8.8 MB compressed, 21.5 MB uncompressed
+App size: 8.8 MB compressed, 21.5 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
